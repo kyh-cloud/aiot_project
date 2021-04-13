@@ -1,5 +1,4 @@
-# IoT센서와 인공지능을 이용한 이상징후 차단 보안관리 시스템
-# Security Management System for Abnormal Signs Using IoT Sensors and Artificial Intelligence
+# IoT센서와 인공지능을 이용한 이상징후 차단 보안관리 시스템 <br> <br>Security Management System for Abnormal Signs Using IoT Sensors and Artificial Intelligence
 
 ## 작품명: 시켜줘! 명예보안관
  
