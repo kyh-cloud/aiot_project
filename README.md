@@ -64,6 +64,6 @@
 
 ### S/W 기능 실사 사진
 
-![image](C:\Users\go23m\Downloads\image.png)
+![image](https://user-images.githubusercontent.com/77868828/119925316-2de40680-bfb0-11eb-8c59-8f09e212fe36.png)
 
 > 통신 데이터 확인시 사용하는 안드로이드 애플리케이션
