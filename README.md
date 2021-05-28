@@ -83,3 +83,14 @@
 
 > 통신 데이터 확인시 사용하는 안드로이드 애플리케이션
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y4LqNpQbxbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> 시연 영상
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yr7IuwVMAO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> PPT 발표 영상
