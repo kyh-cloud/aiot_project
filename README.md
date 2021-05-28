@@ -13,6 +13,10 @@
 
 
 
+
+------
+
+
 ### 서비스 흐름도
 
 ![image](https://user-images.githubusercontent.com/77868828/119845390-2c7cf480-bf44-11eb-9813-8a8535c9585c.png)
@@ -22,6 +26,10 @@
 
 
 
+
+------
+
+
 ### 기능 처리 흐름도
 
 ![image](https://user-images.githubusercontent.com/77868828/119845470-3ef72e00-bf44-11eb-8401-3d5ac6b2925f.png)
@@ -29,6 +37,10 @@
 
 
 
+
+
+
+------
 
 
 ### H/W 기능 실사 사진
@@ -43,7 +55,6 @@
 ![image](https://user-images.githubusercontent.com/77868828/119847677-24be4f80-bf46-11eb-8f94-e87c59a8c0e7.png) 
 
 > 화재알람 부저
->
 
 
 
@@ -62,8 +73,13 @@
 
 
 
+
+
+------
+
 ### S/W 기능 실사 사진
 
 ![image](https://user-images.githubusercontent.com/77868828/119925316-2de40680-bfb0-11eb-8c59-8f09e212fe36.png)
 
 > 통신 데이터 확인시 사용하는 안드로이드 애플리케이션
+
