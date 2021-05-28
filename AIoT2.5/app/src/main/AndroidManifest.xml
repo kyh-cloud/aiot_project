@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aiot_2.aiot2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ai_64px"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ai_64px"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".SettingsActivity"></activity>
+        <activity android:name=".JsonActivity" />
+        <activity android:name="com.aiot_2.dataAiot.Data201111Activity_fire" />
+        <activity android:name="com.aiot_2.dataAiot.Data201111Activity" />
+
+        <service
+            android:name=".AIoTService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SystemActivity"/>
+        <activity android:name=".AlarmActivity" />
+        <activity android:name=".SecurityActivity" />
+        <activity android:name=".FireActivity" />
+
+        <!-- 여기부터 알람 설정이 추가되는 것 -->
+        <receiver android:name="com.aiot_2.aiot2.data.DeviceBootReceiver"
+            android:enabled="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <receiver android:name="com.aiot_2.aiot2.data.AlarmReceiver" />
+
+    </application>
+
+</manifest>
