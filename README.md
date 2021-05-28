@@ -11,9 +11,13 @@
 
 
 
+
+
 ### 서비스 흐름도
 
 ![image](https://user-images.githubusercontent.com/77868828/119845390-2c7cf480-bf44-11eb-9813-8a8535c9585c.png)
+
+
 
 
 
@@ -25,28 +29,41 @@
 
 
 
+
+
 ### H/W 기능 실사 사진
 
 
-![image](https://user-images.githubusercontent.com/77868828/119847326-d9a43c80-bf45-11eb-8664-a539403521a6.png)
+![image](https://user-images.githubusercontent.com/77868828/119847326-d9a43c80-bf45-11eb-8664-a539403521a6.png) 
 
-<동작중인 스마트홈>
+> 동작중인 스마트홈
 
 
 
 ![image](https://user-images.githubusercontent.com/77868828/119847677-24be4f80-bf46-11eb-8f94-e87c59a8c0e7.png) 
 
-<화재알람 부저>
+> 화재알람 부저
+>
 
 
 
 ![image](https://user-images.githubusercontent.com/77868828/119847221-c3967c00-bf45-11eb-9fd6-26bdd009140a.png) 
 
-<티비근처에 부착된 웹캠>
-
-<img src="https://user-images.githubusercontent.com/77868828/119845640-68b05500-bf44-11eb-973f-c5fef1f95cad.jpg" alt="KakaoTalk_20201026_183042461_02" style="zoom: 25%;" /> 
-<img src="https://user-images.githubusercontent.com/77868828/119845683-72d25380-bf44-11eb-859a-2a2f3356bde0.jpg" alt="이상징후사진" style="zoom: 25%;" />
-<이상 징후가 발견되면 LED에 불이 들어오고 부저가 울리면서 창문이 열림(화재대응)>
+> 티비근처에 부착된 웹캠
 
 
 
+<img src="https://user-images.githubusercontent.com/77868828/119845640-68b05500-bf44-11eb-973f-c5fef1f95cad.jpg" alt="KakaoTalk_20201026_183042461_02" style="zoom: 20%;" /> 
+<img src="https://user-images.githubusercontent.com/77868828/119845683-72d25380-bf44-11eb-859a-2a2f3356bde0.jpg" alt="이상징후사진" style="zoom: 20%;" /> 
+
+> 이상 징후가 발견되면 LED에 불이 들어오고 부저가 울리면서 창문이 열림(화재대응)
+
+
+
+
+
+### S/W 기능 실사 사진
+
+![image](C:\Users\go23m\Downloads\image.png)
+
+> 통신 데이터 확인시 사용하는 안드로이드 애플리케이션
