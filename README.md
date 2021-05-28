@@ -61,8 +61,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/77868828/119845640-68b05500-bf44-11eb-973f-c5fef1f95cad.jpg" alt="KakaoTalk_20201026_183042461_02" style="zoom: 20%;" /> 
-<img src="https://user-images.githubusercontent.com/77868828/119845683-72d25380-bf44-11eb-859a-2a2f3356bde0.jpg" alt="이상징후사진" style="zoom: 20%;" /> 
+![image](https://user-images.githubusercontent.com/77868828/119957765-5a624780-bfdd-11eb-8c5a-de98791279d6.png)
 
 > 이상 징후가 발견되면 LED에 불이 들어오고 부저가 울리면서 창문이 열림(화재대응)
 
