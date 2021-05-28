@@ -107,16 +107,19 @@
 
 ### Object Detection(YOLO)
 
-![image](https://user-images.githubusercontent.com/77868828/119990815-c0fa5c00-c003-11eb-8e20-d7f9753be1ac.png)
+<img src="https://user-images.githubusercontent.com/77868828/119990815-c0fa5c00-c003-11eb-8e20-d7f9753be1ac.png" alt="image" style="zoom: 33%;" /> 
 
 ​	에지 검출을 통한 영상만을 이용한다면 침입자를 구분하기 어려운 문제점이 존재하므로, 이를
 방지하기 위해 침입자가 발생했을 시에는 고화질의 영상을 그대로 저장. 이를 위해 인공지능 기반의 YOLO 라이브러리와 인체감지 센서를 이용
 
-![image](https://user-images.githubusercontent.com/77868828/119990745-aaec9b80-c003-11eb-859e-92333f6b977c.png)
+<br>
 
+![image](https://user-images.githubusercontent.com/77868828/119990745-aaec9b80-c003-11eb-859e-92333f6b977c.png) 
 
+> 센서와 인공지능을 접합하여 구현한 알고리즘
+>
 
-
+<br>
 
 ------
 
