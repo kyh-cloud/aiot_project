@@ -85,13 +85,17 @@
 
 
 
-[![시연 영상](http://img.youtube/vi/y4LqNpQbxbw/0.jpg)](https://youtu.be/y4LqNpQbxbw)
+
+
+[![img](https://i.ytimg.com/vi/y4LqNpQbxbw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHUW2RGRINR3dTIt5sT1Ii6WRG6A)](https://youtu.be/y4LqNpQbxbw)
 
 > 시연 영상
 
 
 
-[![PPT 발표 영상](http://img.youtube/vi/Yr7IuwVMAO8/0.jpg)](https://youtu.be/Yr7IuwVMAO8)
+
+
+[![img](https://i.ytimg.com/vi/Yr7IuwVMAO8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsZxYDN1EV8PYESmjVOkEOtZnq1g)](https://youtu.be/Yr7IuwVMAO8)
 
 > PPT 발표 영상
 
