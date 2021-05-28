@@ -1,6 +1,8 @@
-# IoT센서와 인공지능을 이용한 이상징후 차단 보안관리 시스템 <br> <br>Security Management System for Abnormal Signs Using IoT Sensors and Artificial Intelligence
+# IoT센서와 인공지능을 이용한 이상징후 차단<br> 보안관리 시스템 <br> Security Management System for Abnormal Signs<br> Using IoT Sensors and Artificial Intelligence
 
-### 작품명: 시켜줘! 명예보안관
+<br>
+
+## 작품명: 시켜줘! 명예보안관
 
 ​	최신 기술이자 화두인 IoT와 인공지능을 융합하여 개발한 차단 보안 관리 시스템. 각종 센서를 통해 화재 징후를 포착하고 이미지 센싱을 통하여 영상을 받아와 데이터 압축률을 높여 장시간 영상 습득, 장기간 보관을 목표로 함.
 
@@ -16,8 +18,9 @@
 
 ------
 
+<br>
 
-### 서비스 흐름도
+## 서비스 흐름도
 
 ![image](https://user-images.githubusercontent.com/77868828/119845390-2c7cf480-bf44-11eb-9813-8a8535c9585c.png)
 
@@ -29,8 +32,9 @@
 
 ------
 
+<br>
 
-### 기능 처리 흐름도
+## 기능 처리 흐름도
 
 ![image](https://user-images.githubusercontent.com/77868828/119845470-3ef72e00-bf44-11eb-8401-3d5ac6b2925f.png)
 
@@ -42,8 +46,9 @@
 
 ------
 
+<br>
 
-### H/W 기능 실사 사진
+## H/W 기능 실사 사진
 
 
 ![image](https://user-images.githubusercontent.com/77868828/119847326-d9a43c80-bf45-11eb-8664-a539403521a6.png) 
@@ -77,7 +82,9 @@
 
 ------
 
-### S/W 기능 실사 사진
+<br>
+
+## S/W 기능 실사 사진
 
 ![image](https://user-images.githubusercontent.com/77868828/119925316-2de40680-bfb0-11eb-8c59-8f09e212fe36.png)
 
@@ -87,9 +94,23 @@
 
 
 
+------
+
+<br>
+
+## 핵심기술
+
+### Edge Detection
+
+> **Edge**는 경계선, 윤곽선을 의미함. 영상에서의 edge란 <u>영상의 밝기가 낮은 값에서 높은 값으로, 또는 이와 반대로 변하는 지점에 존재하는 부분</u>을 가리킴.
 
 
-### 참고 자료
+
+영상에 edge 검출 영상처리 기술을 적용함으로써 침입자가 발생하는 시간 외에는 물체끼리 비교할 수 있을 정도로의 화질로 영상을 저장한다. Edge 검출 과정은 우선 영상을 [그림 1]과 같이 회색조(gray scale)로 처리함으로써 흑백 이미지로 바뀌기 때문에, 영상에 쓰이는 화소 하나에 소모되는 데이터 용량을 1/3로 줄일 수 있으며, 추후 에지 검출 기술을 적용함에 있어서 간단해진다. 회색조 이후, [그림 2]와 같이 에지 검출을 이용하면 [그림 3]을 통해 알 수 있듯이 기존 이미지의 데이터 양 대비 90%를 감소시킬 수 있다.
+
+------
+
+## <br>참고 자료
 
 [![img](https://i.ytimg.com/vi/y4LqNpQbxbw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHUW2RGRINR3dTIt5sT1Ii6WRG6A)](https://youtu.be/y4LqNpQbxbw)
 
