@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SystemActivity"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/youtubeText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/splash_base"
+        android:ems="10"
+        android:gravity="center"
+        android:inputType="textPersonName"
+        android:text="jq6ypBHkEeI" />
+
+    <com.google.android.youtube.player.YouTubePlayerView
+        android:id="@+id/youtubeView"
+        android:layout_width="match_parent"
+        android:layout_height="390dp" />
+
+    <!--<VideoView
+        android:id="@+id/videoView"
+        android:layout_width="fill_parent"
+        android:layout_height="410dp"
+        android:layout_gravity="center"/>-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/webEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:layout_weight="1"
+            android:inputType="textPersonName"
+            android:gravity="center"
+            android:text="http://35.216.85.216/realtime.php"
+            android:background="@drawable/splash_base"/>
+
+        <Button
+            android:id="@+id/webButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/button_base"
+            android:text="data출력" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ScrollView
+                android:id="@+id/outputScroll"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/layout_stroke">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+
+                     <WebView
+                         android:id="@+id/webView"
+                         android:layout_width="match_parent"
+                         android:layout_height="200dp" />
+                </LinearLayout>
+            </ScrollView>
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/systemButton_system"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:background="#eeee3333"
+            android:text="system"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:id="@+id/securityButton_system"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:background="#ee111111"
+            android:text="security"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:id="@+id/alarmButton_system"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:background="#ee111111"
+            android:text="alarm"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:id="@+id/settingsButton_system"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:background="#ee111111"
+            android:text="fire"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+</LinearLayout>
