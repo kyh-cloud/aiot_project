@@ -63,7 +63,7 @@
 
 ![image](https://user-images.githubusercontent.com/77868828/119957921-7bc33380-bfdd-11eb-833a-be913a2b40ad.png)
 
-> 이상 징후가 발견되면 LED에 불이 들어오고 부저가 울리면서 창문이 열림(화재대응)
+> 이상 징후 탐지 시, LED에 불이 들어오고 부저가 울리면서 창문이 열림(화재대응)
 
 <br>
 
